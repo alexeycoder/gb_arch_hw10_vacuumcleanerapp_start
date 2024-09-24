@@ -8,6 +8,10 @@
 
 ### Use case диаграмма
 
-![usecasediag](https://github.com/user-attachments/assets/2c2116f2-4267-4c69-a2d3-be9f0220bc13)
+![usecasediag1](https://github.com/user-attachments/assets/5a56e7bf-d007-4db7-b00a-219448269f4b)
+
+### ERD
+
+![erd](https://github.com/user-attachments/assets/1460769f-2340-40dd-b2d9-f497dfdb2f66)
 
 
