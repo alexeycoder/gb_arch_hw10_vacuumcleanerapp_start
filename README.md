@@ -1,1 +1,13 @@
-# gb_arch_hw10_vacuumcleanerapp_start
+*Урок 10. Структура приложения с пользовательским интерфейсом и базой данных*
+
+## Проектирование облачного сервиса управления домашним роботом-пылесосом
+
+### Проект основных компонентов пользовательского интерфейса
+
+![uiux](https://github.com/user-attachments/assets/3b518228-da74-43a2-9fa4-d69b422fe18a)
+
+### Use case диаграмма
+
+![usecasediag](https://github.com/user-attachments/assets/2c2116f2-4267-4c69-a2d3-be9f0220bc13)
+
+
